@@ -42,11 +42,12 @@ BMI = 60 / (1.70 * 1.70) = 20.76
 
 ## 🖥️ Demo Link
 
-(Will be added after deployment)
+health-bmi-web.vercel.app
 
 ## 📸 Screenshot
 
-(Add screenshot here after deployment)
+![Uploading image.png…]()
+
 
 ## 🤝 Contributing
 
