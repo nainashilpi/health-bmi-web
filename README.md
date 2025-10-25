@@ -46,7 +46,7 @@ health-bmi-web.vercel.app
 
 ## 📸 Screenshot
 
-<img width="708" height="604" alt="image" src="https://github.com/user-attachments/assets/bb407a97-e4f5-4b2a-bf7a-973a94265a69" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/bb407a97-e4f5-4b2a-bf7a-973a94265a69" />
 
 ## 🤝 Contributing
 
